@@ -13,7 +13,7 @@ Once completed it spits out the map in the same folder with a _edited suffix.
 
 This namelist files expect the following format:
 
-Provname<tab>flaglist
+Provname[tab]flaglist
 
 Provname is the name of the province
 Flaglist should be flags separated by tabs. The flags allowed are as follows:
