@@ -1,0 +1,5 @@
+Renamed Farmland	farm
+Any Throne Province	plains	throne
+Some kind of Wasteland	waste
+Landlocked water province	inland sea
+Small or Large province	small	large	plains
